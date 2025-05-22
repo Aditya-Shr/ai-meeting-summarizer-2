@@ -1,6 +1,6 @@
 # AI Meeting Summarizer
 
-An intelligent system that transcribes, summarizes, and tracks meetings using AI.
+The AI Meeting Summarizer is a Gradio-powered application that turns your meeting audio recordings into transcripts, clear summaries, action items, and decisions. It uses OpenAI Whisper for transcription, BART for summarization, and Flan-T5 for extracting key points—all in a simple web interface. This tool is perfect for quickly capturing what matters most from your meetings.
 
 ## Features
 
